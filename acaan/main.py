@@ -86,6 +86,7 @@ def main():
             )))
             input()
             print(cut_card)
+            input()
         except KeyboardInterrupt:
             break
 
